@@ -16,6 +16,9 @@
 - 未来の破片
   - Aメロ
   - ASIAN KANG-FU GENERATION
+- No Doubt
+  - Aメロ/Bメロ
+  - Official髭男dism
 
 # T-S-S-D
 ## I-IV-II-V
@@ -23,11 +26,28 @@
   - イントロ/Aメロ/サビ
   - Official髭男dism
 
+## VI-II-IV-V
+- Shape of You
+  - イントロ/Aメロ/Bメロ/サビ
+  - Ed Sheeran
+
 # T-S-D-D
 ## I-II-V
 - 香水
   - Aメロ/Bメロ/サビ
   - 瑛人
+
+# S-D-T-T
+## II-III-IV-IV
+- Flamingo
+  - イントロ/Aメロ/Bメロ
+  - 米津玄師
+
+# S-D-D-S
+## IV-V-V-IV
+- Not Shy
+  - Bメロ
+  - ITZY
 
 # S-D-T-D
 ## IV-V-VI-III
