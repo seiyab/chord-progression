@@ -21,11 +21,6 @@
   - Official髭男dism
 
 # T-S-S-D
-## I-IV-II-V
-- Hello
-  - イントロ/Aメロ/サビ
-  - Official髭男dism
-
 ## VI-II-IV-V
 - Shape of You
   - イントロ/Aメロ/Bメロ/サビ
@@ -38,6 +33,14 @@
   - 瑛人
 
 # S-D-T-T
+## IV-III-VI-I
+- 丸の内サディスティック
+  - イントロ/Aメロ/サビ
+  - 椎名林檎
+- 気になるあの子
+  - イントロ/Aメロ/サビ
+  - 相対性理論
+
 ## II-III-IV-IV
 - Flamingo
   - イントロ/Aメロ/Bメロ
@@ -54,3 +57,16 @@
 - 紅蓮華
   - サビ
   - LiSA
+
+# S-D-D-T
+## II-V-III-VI
+- Hello
+  - イントロ/Aメロ/サビ
+  - Official髭男dism
+
+
+# D-T-S-T
+## III-I-II-VI
+- Dance Monkey
+  - Aメロ/サビ
+  - Tones And I
