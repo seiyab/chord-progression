@@ -1,3 +1,10 @@
+
+# T-T-D-S
+## VI-I-V-IV
+- ROCKSTAR
+  - 全て
+  - DaBaby
+
 # T-S-D-T
 ## I-II-V-I
 - Dynamite
@@ -31,6 +38,11 @@
 - 香水
   - Aメロ/Bメロ/サビ
   - 瑛人
+
+# S-T-D-T
+## IV-I-V-IV
+- 流星のスコール
+  - イントロ/Aメロ
 
 # S-D-T-T
 ## IV-III-VI-I
